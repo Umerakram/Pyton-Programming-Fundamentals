@@ -1,0 +1,144 @@
+New Section
+Basics of python - Programming Fundamentals
+1.Variable naming
+Rules for naming conventions
+
+[ ]
+# Right Variable Declaration
+num_students = 25
+[ ]
+total_sales = 1000.50
+[ ]
+student_name = "AI"
+[ ]
+print("Hello world")
+account_circle
+Hello world
+[ ]
+# Print variable values
+print( num_students)
+account_circle
+25
+[ ]
+print(total_sales)
+account_circle
+1000.5
+[ ]
+print(student_name)
+account_circle
+AI
+2- Data types
+In computer programming, data types specify the type of data that can be stored inside a variable.
+
+2.1. Data Type: Numeric
+
+int : 12
+float : 12.45
+complex : 1+2j
+2.2. Data Type: String
+
+str : "The future of AI"
+[ ]
+num = 23
+[ ]
+num
+account_circle
+23
+Above, 23 (an integer) is assigned to the "num" variable. So the data type of num is of the int.
+
+[ ]
+course = "Umer"
+[ ]
+print(course)
+account_circle
+Umer
+Above, "Hope to Skills Free AI Course" (a String) is assigned to the "course" variable. So the data type of course is of the string.
+
+[ ]
+marks = 85.63
+Above, "85.63" (a float) is assigned to the "marks" variable. So the data type of marks is of the float.
+
+[ ]
+complex_number = 1+2j
+[ ]
+complex_number
+account_circle
+(1+2j)
+Above, "1+2j" (a complex number) is assigned to the "complex_number" variable. So the data type of complex_number is of the complex.
+
+Task#01
+Assign values to variables and display their value.
+
+[ ]
+#Assign any String to variable
+i="umer"
+print(i)
+account_circle
+umer
+[ ]
+#Assign any Integer value to variable
+i=2
+print(i)
+account_circle
+2
+[ ]
+# Assign any Float Value to Variable
+i=2.5
+print(i)
+account_circle
+2.5
+Operators
+(+) addition
+(-) subtraction
+/ division
+** exponentiation
+% modulus (remainder after division)
+Comparison Operators are discussed Later
+Python has incorporated operators like +=, but ++ (or --) do not work in Python
+[ ]
+# Multiply two numbers
+print(3*4)
+account_circle
+12
+[ ]
+# Display calculate square of number
+print(3**2)
+account_circle
+9
+[ ]
+# Calculate the Remainder
+print(16%5)
+account_circle
+1
+[ ]
+# Divide two numbers
+a = 5.0/10.0
+a
+account_circle
+0.5
+[ ]
+# Calculate the Quotient of two numbers
+b= 11//4
+b
+account_circle
+2
+Adding two integers
+[ ]
+num1 = 5
+num2 = 2
+sum = num1 + num2
+print(sum)
+account_circle
+7
+simple program to calculate the area of Rectangle
+area of rectangle = length * height
+
+[ ]
+# Simple program to calculate the area of rectangle
+
+length = 2.5
+height = 3.5
+area = length * height
+print(area)
+account_circle
+8.75
